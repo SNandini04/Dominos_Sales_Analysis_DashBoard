@@ -24,6 +24,8 @@
 - SQL used for querying, wrangling, and metric generation
 - DAX formulas for calculated measures (KPIs like Revenue, AOV, etc.)
 - Created slicers, filters, and drill-down parameters for user-driven analysis
+- <a href="https://github.com/SNandini04/Dominos_Sales_Analysis_DashBoard/blob/main/Pizza_Sales_Queries.sql"> View MySQL Queries</a>
+
 
 ## 🎯 Key Insights
  - Orders are Highest on weekends , Friday/Saturday evenings.
